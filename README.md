@@ -4,7 +4,7 @@
 
 ## Este es el repositorio del proyecto Working!!!, una página web responsive diseñada para mostrar un portafolio personal.
 
-### Puedes ver el proyecto en vivo aquí: [GitHub Pages Proyect Working!!!](https://apoteotico.github.io/working/)
+### Puedes ver el proyecto en vivo aquí: [GitHub Pages Proyect Working!!!](https://apoteotico.github.io/Working/)
 
 #### ¡Las contribuciones son bienvenidas!
 
